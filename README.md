@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm currently diving deep into Django, learning to build powerful web applications with it. I've been working with Python for several years, and I also manage my own personal VPN service.<br><br>I'm actively seeking new job opportunities and am open to collaboration, especially in the fields of Artificial Intelligence, Large Language Models (LLMs), and Statistical Language Modeling (SLMs).<br><br>Feel free to reach out if you'd like to connect or work together—I'm always excited to explore new projects, and I've been told I'm pretty fun to work with! 😄
+👋 Hi there! I'm currently diving deep into Django, learning to build powerful web applications with it. I've been working with Python for several years, and I also manage my own personal VPN service.<br><br>I'm actively seeking new job opportunities and am open to collaboration, especially in the fields of Artificial Intelligence, Large Language Models (LLMs), and Statistical Language Modeling (SLMs).<br><br>Feel free to reach out if you'd like to connect or work together. I'm always excited to explore new projects, and I've been told I'm pretty fun to work with! 😄
 
 
 # 💻 Tech Stack:
